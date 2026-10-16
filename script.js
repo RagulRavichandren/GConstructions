@@ -76,7 +76,7 @@ const serviceProjects = {
     projects: [
       {
         title: "Residential floor plan",
-        image: "planning/floor-plan-thirumangalam.png",
+        image: "Planning/floor-plan-thirumangalam.png",
         alt: "Residential ground and first floor plans for a proposed home",
         location: "Thirumangalam",
       },
@@ -192,31 +192,31 @@ const serviceProjects = {
     projects: [
       {
         title: "Night-time exterior elevation",
-        image: "elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.53.jpeg",
+        image: "Elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.53.jpeg",
         alt: "Night-time 3D rendering of a modern two-storey home elevation",
         location: "Thirumangalam",
       },
       {
         title: "Modern 3D house elevation",
-        image: "elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.53%20%282%29.jpeg",
+        image: "Elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.53%20%282%29.jpeg",
         alt: "3D rendering of a white modern two-storey house",
         location: "Thirumangalam",
       },
       {
         title: "Architectural model view",
-        image: "elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.53%20%281%29.jpeg",
+        image: "Elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.53%20%281%29.jpeg",
         alt: "Screenshot of a 3D architectural model of a two-storey home",
         location: "Thirumangalam",
       },
       {
         title: "Detailed exterior rendering",
-        image: "elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.52.jpeg",
+        image: "Elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.52.jpeg",
         alt: "Detailed 3D rendering of a contemporary house facade",
         location: "Thirumangalam",
       },
       {
         title: "Front elevation concept",
-        image: "elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.52%20%281%29.jpeg",
+        image: "Elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.52%20%281%29.jpeg",
         alt: "Front-facing 3D rendering of a contemporary two-storey house",
         location: "Thirumangalam",
       },
