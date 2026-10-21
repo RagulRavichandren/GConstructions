@@ -35,24 +35,16 @@ const serviceProjects = {
     title: "Residential & Commercial Spaces",
     projects: [
       {
-        title: "Contemporary family home",
-        image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1500&q=85",
-        alt: "Light-filled contemporary family home interior",
+        title: "Residential construction",
+        image: "residential/residential-construction-thirumangalam.png",
+        alt: "Residential construction site with workers building a home",
+        location: "Thirumangalam(Madurai)",
       },
       {
-        title: "Modern home with garden views",
-        image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1100&q=85",
-        alt: "Contemporary home exterior surrounded by greenery",
-      },
-      {
-        title: "Contemporary workplace",
-        image: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1500&q=85",
-        alt: "Bright modern commercial office interior",
-      },
-      {
-        title: "Modern commercial building",
-        image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1100&q=85",
-        alt: "Modern commercial building exterior",
+        title: "Commercial construction",
+        image: "assets/commercial-construction-thirumangalam.png",
+        alt: "Commercial building construction site with brickwork and structural reinforcement",
+        location: "Thirumangalam(Madurai)",
       },
     ],
   },
@@ -60,14 +52,10 @@ const serviceProjects = {
     title: "Residential construction",
     projects: [
       {
-        title: "Contemporary family home",
-        image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1500&q=85",
-        alt: "Light-filled contemporary family home interior",
-      },
-      {
-        title: "Modern home with garden views",
-        image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1100&q=85",
-        alt: "Contemporary home exterior surrounded by greenery",
+        title: "Residential construction",
+        image: "residential/residential-construction-thirumangalam.png",
+        alt: "Residential construction site with workers building a home",
+        location: "Thirumangalam(Madurai)",
       },
     ],
   },
@@ -101,14 +89,10 @@ const serviceProjects = {
     title: "Commercial spaces",
     projects: [
       {
-        title: "Contemporary workplace",
-        image: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1500&q=85",
-        alt: "Bright modern commercial office interior",
-      },
-      {
-        title: "Modern commercial building",
-        image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1100&q=85",
-        alt: "Modern commercial building exterior",
+        title: "Commercial construction",
+        image: "assets/commercial-construction-thirumangalam.png",
+        alt: "Commercial building construction site with brickwork and structural reinforcement",
+        location: "Thirumangalam(Madurai)",
       },
     ],
   },
