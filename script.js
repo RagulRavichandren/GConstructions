@@ -42,7 +42,7 @@ const serviceProjects = {
       },
       {
         title: "Commercial construction",
-        image: "assets/commercial-construction-thirumangalam.png",
+        image: "residential/commercial-construction-thirumangalam.png",
         alt: "Commercial building construction site with brickwork and structural reinforcement",
         location: "Thirumangalam(Madurai)",
       },
