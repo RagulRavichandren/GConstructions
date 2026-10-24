@@ -115,13 +115,25 @@ const serviceProjects = {
     title: "Building plan approval",
     projects: [
       {
-        title: "Approved building plan review",
-        image: "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1200&q=85",
+        title: "Punchayat and municipal clearance",
+        image: "Planning/img1.png",
         alt: "Architectural plans and approval documents laid out for review",
       },
       {
-        title: "Authority-ready documentation",
-        image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1100&q=85",
+        title: "Punchayat and municipal clearance",
+        image: "Planning/img2.png",
+        alt: "Project documentation and site plans organized for approval",
+      },
+      
+      {
+        title: "Punchayat and municipal clearance",
+        image: "Planning/img3.png",
+        alt: "Project documentation and site plans organized for approval",
+      },
+      
+      {
+        title: "Punchayat and municipal clearance",
+        image: "Planning/img4.png",
         alt: "Project documentation and site plans organized for approval",
       },
     ],
