@@ -115,24 +115,24 @@ const serviceProjects = {
     title: "Building plan approval",
     projects: [
       {
-        title: "Punchayat and municipal clearance",
+        title: "Project:Thirumangalam",
         image: "Planning/img1.png",
         alt: "Architectural plans and approval documents laid out for review",
       },
       {
-        title: "Punchayat and municipal clearance",
+        title: "Project:Thirumangalam",
         image: "Planning/img2.png",
         alt: "Project documentation and site plans organized for approval",
       },
       
       {
-        title: "Punchayat and municipal clearance",
+        title: "Project:Paravai",
         image: "Planning/img3.png",
         alt: "Project documentation and site plans organized for approval",
       },
       
       {
-        title: "Punchayat and municipal clearance",
+        title: "Project:Paravai",
         image: "Planning/img4.png",
         alt: "Project documentation and site plans organized for approval",
       },
