@@ -115,24 +115,24 @@ const serviceProjects = {
     title: "Building plan approval",
     projects: [
       {
-        title: "Site:Thirumangalam",
+        title: "Site: Thirumangalam, Madurai.",
         image: "Planning/img1.png",
         alt: "Architectural plans and approval documents laid out for review",
       },
       {
-        title: "Site:Thirumangalam",
+        title: "Site: Thirumangalam, Madurai.",
         image: "Planning/img2.png",
         alt: "Project documentation and site plans organized for approval",
       },
       
       {
-        title: "Site:Paravai",
+        title: "Site: Paravai, Madurai.",
         image: "Planning/img3.png",
         alt: "Project documentation and site plans organized for approval",
       },
       
       {
-        title: "Site:Paravai",
+        title: "Site: Paravai, Madurai.",
         image: "Planning/img4.png",
         alt: "Project documentation and site plans organized for approval",
       },
