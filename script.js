@@ -36,14 +36,21 @@ const serviceProjects = {
     projects: [
       {
         title: "Residential construction",
-        image: "residential/residential-construction-thirumangalam.png",
+        image: "residential/Jaihindpuram.png",
         alt: "Residential construction site with workers building a home",
+        location: "Jaihindpuram(Madurai)",
+      },
+      {
+        title: "Residential construction",
+        image: "residential/Pudhur1.png",
+        alt: "Commercial building construction site with brickwork and structural reinforcement",
         location: "Thirumangalam(Madurai)",
       },
       {
         title: "Commercial construction",
-        image: "residential/commercial-construction-thirumangalam.png",
+        image: "residential/Vilangudi1.png",
         alt: "Commercial building construction site with brickwork and structural reinforcement",
+        P:"Ongoing project",
         location: "Thirumangalam(Madurai)",
       },
     ],
