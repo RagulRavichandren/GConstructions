@@ -53,6 +53,14 @@ const serviceProjects = {
         P:"Ongoing project",
         location: "Vilangudi(Madurai)",
       },
+      
+      {
+        title: "Residential construction",
+        image: "residential/Kodaikanal.jpeg",
+        alt: "Commercial building construction site with brickwork and structural reinforcement",
+        P:"Ongoing project",
+        location: "Kodaikanal(Dindigul)",
+      },
     ],
   },
   planning: {
@@ -71,8 +79,9 @@ const serviceProjects = {
     projects: [
       {
         title: "Warm, refreshed living space",
-        image: "https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=1100&q=85",
+        image: "Elevation/Vilangudi_int.jpeg",
         alt: "Warm modern interior with carefully chosen finishes",
+        location:"Vilangudi(Madurai)",
       },
       {
         title: "Contemporary interior update",
