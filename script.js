@@ -40,19 +40,6 @@ const serviceProjects = {
         alt: "Residential construction site with workers building a home",
         location: "Thenoore(Madurai)",
       },
-      {
-        title: "Residential construction",
-        image: "residential/Pudhur1.jpeg",
-        alt: "Commercial building construction site with brickwork and structural reinforcement",
-        location: "Pudhur1(Madurai)",
-      },
-      {
-        title: "Residential construction",
-        image: "residential/Jaihindpuram.jpeg",
-        alt: "Commercial building construction site with brickwork and structural reinforcement",
-        P:"Ongoing project",
-        location: "Jaihindpuram(Madurai)",
-      },
       
       {
         title: "Residential construction",
@@ -60,6 +47,20 @@ const serviceProjects = {
         alt: "Commercial building construction site with brickwork and structural reinforcement",
         P:"Ongoing project",
         location: "Kodaikanal(Dindigul)",
+      },
+      
+      {
+        title: "Residential construction",
+        image: "residential/Jaihindpuram.jpeg",
+        alt: "Commercial building construction site with brickwork and structural reinforcement",
+        P:"Ongoing project",
+        location: "Jaihindpuram(Madurai)",
+      },
+      {
+        title: "Residential construction",
+        image: "residential/Pudhur1.jpeg",
+        alt: "Commercial building construction site with brickwork and structural reinforcement",
+        location: "Pudhur1(Madurai)",
       },
     ],
   },
