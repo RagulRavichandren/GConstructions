@@ -44,7 +44,7 @@ const serviceProjects = {
         title: "Residential construction",
         image: "residential/Pudhur1.png",
         alt: "Commercial building construction site with brickwork and structural reinforcement",
-        location: "Thirumangalam(Madurai)",
+        location: "Pudhur1(Madurai)",
       },
       {
         title: "Residential construction",
@@ -52,17 +52,6 @@ const serviceProjects = {
         alt: "Commercial building construction site with brickwork and structural reinforcement",
         P:"Ongoing project",
         location: "Vilangudi(Madurai)",
-      },
-    ],
-  },
-  residential: {
-    title: "Residential construction",
-    projects: [
-      {
-        title: "Residential construction",
-        image: "residential/residential-construction-thirumangalam.png",
-        alt: "Residential construction site with workers building a home",
-        location: "Thirumangalam(Madurai)",
       },
     ],
   },
