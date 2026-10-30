@@ -35,7 +35,7 @@ const serviceProjects = {
     title: "Residential & Commercial Spaces",
     projects: [
       {
-        title: "Residential construction",
+        title: "Commercial construction",
         image: "residential/Commertial_Annai.jpeg",
         alt: "Residential construction site with workers building a home",
         location: "Thenur(Madurai)",
