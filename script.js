@@ -38,7 +38,7 @@ const serviceProjects = {
         title: "Residential construction",
         image: "residential/Commertial_Annai.jpeg",
         alt: "Residential construction site with workers building a home",
-        location: "Thenoore(Madurai)",
+        location: "Thenur(Madurai)",
       },
       
       {
@@ -60,7 +60,7 @@ const serviceProjects = {
         title: "Residential construction",
         image: "residential/Pudhur1.jpeg",
         alt: "Commercial building construction site with brickwork and structural reinforcement",
-        location: "Pudhur1(Madurai)",
+        location: "Pudhur(Madurai)",
       },
     ],
   },
@@ -194,7 +194,6 @@ const serviceProjects = {
       {
         title: "Night-time exterior elevation",
         image: "Elevation/Sundharrajan_puram.jpeg",
-        alt: "Night-time 3D rendering of a modern two-storey home elevation",
         location: "Sundharrajanpuram(Madurai)",
       },
       {
@@ -219,7 +218,7 @@ const serviceProjects = {
         title: "Front elevation concept",
         image: "Elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.52%20%281%29.jpeg",
         alt: "Front-facing 3D rendering of a contemporary two-storey house",
-        location: "Thirumangala",
+        location: "Thirumangalam",
       },
     ],
   },
