@@ -36,19 +36,19 @@ const serviceProjects = {
     projects: [
       {
         title: "Residential construction",
-        image: "residential/Jaihindpuram.png",
+        image: "residential/Jaihindpuram.jpeg",
         alt: "Residential construction site with workers building a home",
         location: "Jaihindpuram(Madurai)",
       },
       {
         title: "Residential construction",
-        image: "residential/Pudhur1.png",
+        image: "residential/Pudhur1.jpeg",
         alt: "Commercial building construction site with brickwork and structural reinforcement",
         location: "Pudhur1(Madurai)",
       },
       {
         title: "Residential construction",
-        image: "residential/Vilangudi1.png",
+        image: "residential/Vilangudi1.jpeg",
         alt: "Commercial building construction site with brickwork and structural reinforcement",
         P:"Ongoing project",
         location: "Vilangudi(Madurai)",
