@@ -80,7 +80,6 @@ const serviceProjects = {
       {
         title: "Warm, refreshed living space",
         image: "Elevation/Vilangudi_int.jpeg",
-        alt: "Warm modern interior with carefully chosen finishes",
         location:"Vilangudi(Madurai)",
       },
       {
