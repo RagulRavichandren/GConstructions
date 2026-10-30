@@ -47,11 +47,11 @@ const serviceProjects = {
         location: "Thirumangalam(Madurai)",
       },
       {
-        title: "Commercial construction",
+        title: "Residential construction",
         image: "residential/Vilangudi1.png",
         alt: "Commercial building construction site with brickwork and structural reinforcement",
         P:"Ongoing project",
-        location: "Thirumangalam(Madurai)",
+        location: "Vilangudi(Madurai)",
       },
     ],
   },
