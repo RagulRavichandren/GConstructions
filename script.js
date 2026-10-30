@@ -36,9 +36,9 @@ const serviceProjects = {
     projects: [
       {
         title: "Residential construction",
-        image: "residential/Jaihindpuram.jpeg",
+        image: "residential/Commertial_Annai.jpeg",
         alt: "Residential construction site with workers building a home",
-        location: "Jaihindpuram(Madurai)",
+        location: "Thenoore(Madurai)",
       },
       {
         title: "Residential construction",
@@ -48,10 +48,10 @@ const serviceProjects = {
       },
       {
         title: "Residential construction",
-        image: "residential/Vilangudi1.jpeg",
+        image: "residential/Jaihindpuram.jpeg",
         alt: "Commercial building construction site with brickwork and structural reinforcement",
         P:"Ongoing project",
-        location: "Vilangudi(Madurai)",
+        location: "Jaihindpuram(Madurai)",
       },
       
       {
@@ -192,9 +192,9 @@ const serviceProjects = {
     projects: [
       {
         title: "Night-time exterior elevation",
-        image: "Elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.53.jpeg",
+        image: "Elevation/Sundharrajan_puram.jpeg",
         alt: "Night-time 3D rendering of a modern two-storey home elevation",
-        location: "Thirumangalam",
+        location: "Sundharrajanpuram(Madurai)",
       },
       {
         title: "Modern 3D house elevation",
@@ -218,7 +218,7 @@ const serviceProjects = {
         title: "Front elevation concept",
         image: "Elevation/WhatsApp%20Image%202026-10-16%20at%2012.37.52%20%281%29.jpeg",
         alt: "Front-facing 3D rendering of a contemporary two-storey house",
-        location: "Thirumangalam",
+        location: "Thirumangala",
       },
     ],
   },
