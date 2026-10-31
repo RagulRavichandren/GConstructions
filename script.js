@@ -62,6 +62,18 @@ const serviceProjects = {
         alt: "Commercial building construction site with brickwork and structural reinforcement",
         location: "Pudhur(Madurai)",
       },
+      {
+        title: "Residential (under construction)",
+        image: "residential/TPK1.jpeg",
+        alt: "Commercial building construction site with brickwork and structural reinforcement",
+        location: "Thirupparen kundram(Madurai)",
+      },
+      {
+        title: "Residential (under construction)",
+        image: "residential/Viraganoore1.jpeg",
+        alt: "Commercial building construction site with brickwork and structural reinforcement",
+        location: "Viraganoore(Madurai)",
+      },
     ],
   },
   planning: {
