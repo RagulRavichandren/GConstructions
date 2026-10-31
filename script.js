@@ -54,7 +54,7 @@ const serviceProjects = {
         image: "residential/Jaihindpuram.jpeg",
         alt: "Commercial building construction site with brickwork and structural reinforcement",
         P:"Ongoing project",
-        location: "Jaihindpuram(Madurai)",
+        location: "Kovilpappakudi(Madurai)",
       },
       {
         title: "Residential construction",
